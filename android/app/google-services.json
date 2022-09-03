@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121891602603",
+    "project_id": "learning-ff9e1",
+    "storage_bucket": "learning-ff9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121891602603:android:09877f836da0a63087b7ee",
+        "android_client_info": {
+          "package_name": "com.amk4soft.my_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121891602603-g11vpsuuki9qijl80lftb61bgdscrt21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnr_9zM1csHYwpZqY9bR-YGfKAbHJVHm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121891602603-g11vpsuuki9qijl80lftb61bgdscrt21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
